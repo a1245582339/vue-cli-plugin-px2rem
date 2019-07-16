@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-px2rem",
+  "version": "1.0.1",
+  "description": "px2rem for vue-cli3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1245582339/vue-cli-plugins-px2rem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1245582339/vue-cli-plugins-px2rem/issues"
+  },
+  "homepage": "https://github.com/a1245582339/vue-cli-plugins-px2rem#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.5.0"
+  }
+}
